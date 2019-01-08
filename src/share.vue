@@ -14,7 +14,7 @@ export default {
     }
   },
   mounted() {
-    window.socialShare(this.refs.share, this.config);
+    window.socialShare(this.$refs.share, this.config);
   },
 }
 </script>
