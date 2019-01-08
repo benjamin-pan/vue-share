@@ -1,4 +1,4 @@
-# vue-share
+# share-for-vue
 
 > vue components for share.js
 
