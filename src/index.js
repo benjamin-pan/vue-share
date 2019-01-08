@@ -1,4 +1,4 @@
-import Share from '../Share.vue'
+import Share from './share.vue'
 
 Share.install = Vue => {
   Vue.component('share', Share)

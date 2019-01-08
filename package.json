@@ -1,7 +1,7 @@
 {
-  "name": "vue-share",
+  "name": "share-for-vue",
   "description": "vue components for share.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "benjamin <1010629840@qq.com>",
   "license": "MIT",
   "private": false,
